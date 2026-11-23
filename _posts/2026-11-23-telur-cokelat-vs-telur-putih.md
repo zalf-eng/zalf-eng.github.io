@@ -18,9 +18,11 @@ Pigmen itu hanya ada di lapisan kulit, tidak masuk ke putih atau kuning telur. K
 
 Yang benar-benar memengaruhi gizi adalah:
 
-- **Pakan induk.** Ayam yang pakannya diperkaya (misalnya dengan sumber omega-3) dapat menghasilkan telur dengan kandungan tertentu yang lebih tinggi.
+- **Pakan induk.** Ayam yang pakannya diperkaya sumber omega-3 (misalnya biji rami/flaxseed, alga, atau minyak ikan) menghasilkan telur dengan kandungan omega-3 yang lebih tinggi daripada telur biasa. Telur seperti ini dijual sebagai "telur omega".
 - **Ukuran telur.** Telur besar tentu berisi lebih banyak zat gizi daripada telur kecil.
 - **Kesegaran dan penyimpanan.** Telur yang disimpan terlalu lama di suhu panas mutunya menurun.
+
+> **Ingin mencoba telur omega?** Salah satu yang bisa dibeli online adalah [Telur Ayam Omega-3 Premium Morel Farm (isi 10 butir) di Shopee](https://s.shopee.co.id/5q9yIzNXQR). Harganya memang lebih tinggi dari telur biasa, jadi cocok bila Anda memang ingin menambah asupan omega-3 dari makanan sehari-hari.
 
 ## Lalu kenapa telur cokelat sering lebih mahal?
 
@@ -34,4 +36,6 @@ Biasanya karena faktor peternakan: jenis ayam penghasil telur cokelat cenderung 
 
 ## Kesimpulan
 
-Pilih telur berdasarkan **kesegaran, kebersihan, dan harga**, bukan warna kulitnya. Telur putih dan cokelat sama-sama sumber protein yang baik dan terjangkau.
+Pilih telur berdasarkan **kesegaran, kebersihan, dan harga**, bukan warna kulitnya. Telur putih dan cokelat sama-sama sumber protein yang baik dan terjangkau. Jika ingin omega-3 lebih banyak, yang perlu diperhatikan adalah **pakan ayamnya**, bukan warna kulit telurnya.
+
+<small>*Artikel ini memuat tautan affiliate. Jika Anda membeli lewat tautan tersebut, kami mungkin mendapat komisi kecil tanpa biaya tambahan bagi Anda.*</small>
