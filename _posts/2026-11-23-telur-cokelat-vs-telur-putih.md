@@ -34,6 +34,8 @@ Biasanya karena faktor peternakan: jenis ayam penghasil telur cokelat cenderung 
 2. **Uji air**: masukkan telur ke wadah berisi air. Telur segar tenggelam dan berbaring; telur yang lebih lama cenderung berdiri; telur yang mengapung sebaiknya tidak dimakan.
 3. **Simpan dengan benar**: taruh di tempat sejuk atau kulkas, dan jangan dicuci sebelum disimpan karena mencuci dapat menghilangkan lapisan pelindung alami kulit telur.
 
+Untuk kebutuhan dapur sehari-hari, telur ayam negeri biasa sudah lebih dari cukup. Jika malas ke pasar, ada juga [telur ayam negeri cokelat segar yang bisa dipesan di Shopee](https://s.shopee.co.id/5VX7uU9fpn) — saat barang tiba, cek dulu kulitnya dan lakukan uji air di atas.
+
 ## Kesimpulan
 
 Pilih telur berdasarkan **kesegaran, kebersihan, dan harga**, bukan warna kulitnya. Telur putih dan cokelat sama-sama sumber protein yang baik dan terjangkau. Jika ingin omega-3 lebih banyak, yang perlu diperhatikan adalah **pakan ayamnya**, bukan warna kulit telurnya.
