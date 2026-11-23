@@ -1,0 +1,16 @@
+title: Tahu Lebih
+description: Pengetahuan ringan dan berguna tentang pertanian & lahan, sejarah, sains populer, dan tips produk sehari-hari.
+lang: id
+url: "https://zalf-eng.github.io"
+baseurl: ""
+theme: minima
+permalink: /:categories/:title/
+timezone: Asia/Makassar
+show_excerpts: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+header_pages:
+  - kategori.md
+  - tentang.md
