@@ -7,6 +7,9 @@ theme: minima
 permalink: /:categories/:title/
 timezone: Asia/Makassar
 show_excerpts: true
+exclude:
+  - scripts
+  - stats
 plugins:
   - jekyll-feed
   - jekyll-seo-tag

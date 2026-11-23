@@ -5,5 +5,13 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
-  <script data-goatcounter="https://tahulebih.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+  <script>
+  (function () {
+    var ns = 'zalf-eng.github.io';
+    var keys = ['total'{% if page.layout == 'post' %}, 'p-{{ page.slug | slice: 0, 60 }}'{% endif %}];
+    keys.forEach(function (k) {
+      try { fetch('https://abacus.jasoncameron.dev/hit/' + ns + '/' + k).catch(function () {}); } catch (e) {}
+    });
+  })();
+  </script>
 </head>
